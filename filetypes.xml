@@ -4,6 +4,8 @@
       <mapping pattern="About-Tyler-Chiapperino-Deal-Lead-Expert.nunjucks" type="PLAIN_TEXT" />
       <mapping pattern="About-Tyler-Chiapperino-Deal-Lead-Expert" type="PLAIN_TEXT" />
       <mapping ext="otf" type="PLAIN_TEXT" />
+      <removed_mapping ext="cgi" type="PLAIN_TEXT" />
+      <removed_mapping ext="rb" type="PLAIN_TEXT" />
       <mapping ext="nunjucks" type="Twig" />
     </extensionMap>
   </component>
