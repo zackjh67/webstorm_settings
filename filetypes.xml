@@ -6,6 +6,7 @@
       <mapping ext="otf" type="PLAIN_TEXT" />
       <removed_mapping ext="cgi" type="PLAIN_TEXT" />
       <removed_mapping ext="rb" type="PLAIN_TEXT" />
+      <mapping pattern="nglabeltemplatedirective" type="TypeScript" />
       <mapping ext="nunjucks" type="Twig" />
     </extensionMap>
   </component>
