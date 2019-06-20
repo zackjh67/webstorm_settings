@@ -4,7 +4,7 @@
     <property name="created">2019-06-19T15:03:07</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-06-19T15:15:08</property>
+    <property name="modified">2019-06-20T13:50:19</property>
     <property name="originalScheme">Material Deep Ocean</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -510,7 +510,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="c792ea" />
+        <option name="FOREGROUND" value="9100ff" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -1031,7 +1031,7 @@
     </option>
     <option name="JS.THIS_SUPER">
       <value>
-        <option name="FOREGROUND" value="ff4965" />
+        <option name="FOREGROUND" value="35e900" />
       </value>
     </option>
     <option name="JSON.KEYWORD">
@@ -2763,8 +2763,9 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ffeb95" />
+        <option name="FOREGROUND" value="ff00ec" />
         <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="f800df" />
       </value>
     </option>
     <option name="TS.TYPE_PARAMETER">
