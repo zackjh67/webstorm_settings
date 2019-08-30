@@ -3,6 +3,7 @@
     <option name="COLLAPSE_IMPORTS" value="false" />
   </component>
   <component name="CodeInsightSettings">
+    <option name="SMART_END_ACTION" value="false" />
     <option name="SURROUND_SELECTION_ON_QUOTE_TYPED" value="true" />
   </component>
 </application>
