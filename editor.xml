@@ -13,4 +13,5 @@
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
   </component>
+  <component name="LiveEditOptions" useJBChromeExtension="true" />
 </application>
