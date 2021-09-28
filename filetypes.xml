@@ -1,0 +1,17 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="xlsm" type="DTD" />
+      <mapping pattern="About-Tyler-Chiapperino-Deal-Lead-Expert" type="PLAIN_TEXT" />
+      <mapping pattern="About-Tyler-Chiapperino-Deal-Lead-Expert.nunjucks" type="PLAIN_TEXT" />
+      <mapping pattern="minified" type="PLAIN_TEXT" />
+      <mapping ext="swf" type="PLAIN_TEXT" />
+      <mapping ext="eot" type="PLAIN_TEXT" />
+      <mapping ext="ttf" type="PLAIN_TEXT" />
+      <mapping ext="emails" type="PLAIN_TEXT" />
+      <mapping ext="otf" type="PLAIN_TEXT" />
+      <mapping ext="nunjucks" type="Twig" />
+      <mapping pattern="nglabeltemplatedirective" type="TypeScript" />
+    </extensionMap>
+  </component>
+</application>

@@ -1,0 +1,6 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="dist" value="/Users/zack/SynlioStuff/rfp/app/dist" />
+    <ignoredMacro name="dist" />
+  </component>
+</application>
