@@ -9,6 +9,7 @@
       <mapping ext="emails" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="otf" type="PLAIN_TEXT" />
+      <mapping ext="dump" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping pattern="nglabeltemplatedirective" type="TypeScript" />
       <mapping ext="nunjucks" type="Twig" />
