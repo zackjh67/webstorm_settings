@@ -13,6 +13,7 @@
       <mapping ext="dump" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping pattern="nglabeltemplatedirective" type="TypeScript" />
+      <removed_mapping pattern=".env" approved="true" type=".env file" />
       <mapping ext="nunjucks" type="Twig" />
     </extensionMap>
   </component>
