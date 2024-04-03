@@ -2,5 +2,6 @@
   <component name="NodeJsLocalInterpreterManager">
     <local-interpreter path="/usr/local/bin/node" />
     <local-interpreter path="/usr/local/Cellar/node/16.9.1/bin/node" />
+    <local-interpreter path="C:/Program Files/nodejs/node.exe" excluded="true" />
   </component>
 </application>
